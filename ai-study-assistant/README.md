@@ -72,21 +72,31 @@ ai-study-assistant/
 ```bash
 pip install -r requirements.txt
 
-## 2.Run the project
+---
+
+# 2.Run the project
 
 python app.py
 
+---
+
 # Example Usage
+
 Input:
 What is Machine Learning?
 Output:
 Machine Learning is a subset of Artificial Intelligence that enables systems to learn from data...
 
-# Requirements
+---
+
+#📌 Requirements
+
 endee
 openai
 
-# Use of Endee
+---
+
+#🧠 Use of Endee
 
 This project uses Endee as the vector database to:
 
@@ -94,22 +104,33 @@ Store embeddings of study notes
 Perform similarity search
 Retrieve relevant context for AI responses
 
-# Why This Project?
+---
+
+#📊 Why This Project?
+
 Demonstrates RAG architecture
 Shows real-world AI application
 Uses vector database concepts
 Simple but powerful for learning
 
-# Future Improvements
+---
+
+#⚠️ Future Improvements
+
 Add PDF upload support
 Add Streamlit UI
 Expand dataset size
 Multi-user chat interface
-📄 License
+
+---
+
+#📄 License
 
 This project is for educational purposes.
 
-# Author
+---
+
+# 👨‍💻Author
 
 Your Anurathi L
 GitHub: https://github.com/anurathii
