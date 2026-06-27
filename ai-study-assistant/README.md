@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 ---
 
-**# 2.Run the project**
+# 2.Run the project
 
 python app.py
 
